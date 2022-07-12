@@ -1,5 +1,5 @@
 {
-    "name": "CarBot Multifuncional",
+    "name": "CarBot Multifuncional2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "5.0.6",
+        "target": "5.0.12",
         "targetId": "microbit"
     },
     "supportedTargets": [
