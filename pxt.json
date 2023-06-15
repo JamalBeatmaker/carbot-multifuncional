@@ -1,10 +1,12 @@
 {
-    "name": "CarBot Multifuncional2",
+    "name": "MecaBot OBR 2023",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
+        "pxt-SEN-Color": "github:joy-it/pxt-sen-color#1.0.1",
+        "Solucao-12.1": "github:elderofz1on/solucao-12-1#f8bca8e174916aa0cbeb82a354dd0d147964dd2c",
         "hackbit": "github:hackidsedu/pxt-hackbit#v1.0.12"
     },
     "files": [
